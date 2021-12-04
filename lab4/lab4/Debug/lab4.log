@@ -1,0 +1,7 @@
+﻿  lab4.cpp
+C:\Everything\labs\prog_engin\lab4\lab4\lab4\lab4.cpp(9,23): warning C4018: '<': signed/unsigned mismatch
+C:\Everything\labs\prog_engin\lab4\lab4\lab4\lab4.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Everything\labs\prog_engin\lab4\lab4\lab4\lab4.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Everything\labs\prog_engin\lab4\lab4\lab4\lab4.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Everything\labs\prog_engin\lab4\lab4\lab4\lab4.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+  lab4.vcxproj -> C:\Everything\labs\prog_engin\lab4\lab4\Debug\lab4.exe
